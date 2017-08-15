@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "517257bd62ef4bac3f46a620796393b5"
+build_time: [556130537, 148478000]
+inputs:
+  "/Users/marijanvukcevich/Documents/Marijan_docs/Simple_Swift_Tuts/FlickrSearch/FlickrSearch/FlickrPhotosViewController.swift": [541039924, 0]
+  "/Users/marijanvukcevich/Documents/Marijan_docs/Simple_Swift_Tuts/FlickrSearch/FlickrSearch/FlickrSearchResults.swift": [541037869, 0]
+  "/Users/marijanvukcevich/Documents/Marijan_docs/Simple_Swift_Tuts/FlickrSearch/FlickrSearch/FlickrPhoto.swift": [541037855, 0]
+  "/Users/marijanvukcevich/Documents/Marijan_docs/Simple_Swift_Tuts/FlickrSearch/FlickrSearch/Flickr.swift": [541096183, 0]
+  "/Users/marijanvukcevich/Documents/Marijan_docs/Simple_Swift_Tuts/FlickrSearch/FlickrSearch/AppDelegate.swift": [541036805, 0]
+  "/Users/marijanvukcevich/Documents/Marijan_docs/Simple_Swift_Tuts/FlickrSearch/FlickrSearch/FlickrPhotoCell.swift": [541039877, 0]
